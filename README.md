@@ -29,3 +29,12 @@ Criar o modelo conceltual de banco de dados do zero para atender os seguintes po
 - EquipeMecanico
 - PecasOrdemOS
   
+# Oficina - Modelo lógico de banco de dados 
+
+## 📌 Objetivo
+
+Criar o modelo logico de banco de dados a partir do modelo conceitual que foi construído para o tema oficina:
+
+- Criado as tabelas (entidades) e seus relacionamentos por Foreign Key
+- Inserido informações fictas nas tabelas para teste de relacionamentos
+- Realizado a recuperação de informações através de query utilizando metodo DML – Data Manipulation Language 
